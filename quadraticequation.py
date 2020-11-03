@@ -8,7 +8,7 @@ b = 5
 c = 6
 
 # calculate the discriminant
-d = (b**2) - (4*a*b)
+d = (b**2) - (4*a*d)
 
 #added a change here
 
